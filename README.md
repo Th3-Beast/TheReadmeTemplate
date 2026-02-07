@@ -7,7 +7,7 @@
 ### *Because your project deserves more than a blank page*
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/ReadmeTemplate.svg?style=social)](https://github.com/yourusername/ReadmeTemplate/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/Th3-Beast/TheReadmeTemplate.svg?style=social)](https://github.com/The3-Beast/TheReadmeTemplate/stargazers)
 
 [Explore Templates](#-the-templates) • [Quick Start](#-quick-start) • [Contributing](#-contributing)
 
