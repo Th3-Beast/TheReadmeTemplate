@@ -72,7 +72,7 @@ Each template is crafted for different project types and complexity levels:
 
 - **`Beginner-Readme-Template.md`** - For beginners to use, customise and understand how to strucure the Readme file
 **Coming Soon**
-- **`minimal-readme.md`** - For simple scripts and small projects (< 5 min setup)
+- **`Minimal-Readme.md`** - For simple scripts and small projects (< 5 min setup)
 - **`standard-readme.md`** - The sweet spot for most projects (includes installation, usage, contributing)
 - **`comprehensive-readme.md`** - Full-featured for complex projects (architecture, testing, deployment)
 
